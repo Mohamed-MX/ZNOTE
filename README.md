@@ -55,6 +55,3 @@ ZNOTE prioritizes your privacy. The "Redact" feature uses the `local_auth` packa
 - [Provider](https://pub.dev/packages/provider) - State Management
 - [Local Auth](https://pub.dev/packages/local_auth) - Local Biometrics/Security
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
