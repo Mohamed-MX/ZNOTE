@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "836276635001",
+    "project_id": "znote-50a8a",
+    "storage_bucket": "znote-50a8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836276635001:android:87d467fddbd55533ae1ba8",
+        "android_client_info": {
+          "package_name": "com.example.znote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836276635001-645kg4mfu6ffoec8cstn7ee0jmpe0ald.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.znote",
+            "certificate_hash": "6604d8417ebc9060ded7e626ca4bd3f3c19c08b9"
+          }
+        },
+        {
+          "client_id": "836276635001-j2q90rau7t9hv0k7ih0qd9t44fgn9op0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTANwujDEuq03K9Jc6Rq-Ajx0V_37I87E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836276635001-j2q90rau7t9hv0k7ih0qd9t44fgn9op0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836276635001-kt7j9t3gqjh9s5efm0lekgrsum0s93tj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.znote"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
