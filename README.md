@@ -2,6 +2,24 @@
 
 ZNOTE is a secure, feature-rich note-taking application built with Flutter and Firebase. It offers a seamless experience for capturing ideas, managing tasks, and keeping sensitive information private.
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8966ed6b-340e-4972-b014-0083a951f1a7" alt="Login Screen" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/398448c9-ec79-4a5a-b31c-0b811ca3b6a3" alt="Empty Notes" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4ee8a941-437d-4e96-ae13-1ccacf078e0b" alt="Grid View Light" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4a68dfa9-c7ea-49ac-bda3-ef6a567dd810" alt="Note View" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ca6b4c79-477d-4380-88c5-497b842e647b" alt="Note Keyboard" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/755ae36c-db8a-4e09-8900-9838778c84fa" alt="Note Checklist" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/11156aea-1d25-4471-be2f-c49aeb96d88c" alt="Grid View Dark" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/2f4d0f76-8232-42ce-a572-8a8a3f942dd0" alt="Note View Dark" width="250"/></td>
+    <td></td>
+  </tr>
+</table>
+
 ## ✨ Features
 
 - **Google Authentication:** Secure and easy sign-in using your Google account.
@@ -27,31 +45,5 @@ ZNOTE prioritizes your privacy. The "Redact" feature uses the `local_auth` packa
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Mohamed-MX/ZNOTE.git
+   git clone [https://github.com/Mohamed-MX/ZNOTE.git](https://github.com/Mohamed-MX/ZNOTE.git)
    cd ZNOTE
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Firebase Configuration:**
-   - Create a project on the [Firebase Console](https://console.firebase.google.com/).
-   - Add an Android and/or iOS app.
-   - Download the `google-services.json` (Android) or `GoogleService-Info.plist` (iOS) and place them in the correct directories.
-   - Enable **Google Sign-In** and **Firestore** in the Firebase console.
-
-4. **Run the app:**
-   ```bash
-   flutter run
-   ```
-
-## 🛠️ Built With
-
-- [Flutter](https://flutter.dev/) - UI Toolkit
-- [Firebase Auth](https://firebase.google.com/docs/auth) - Authentication
-- [Cloud Firestore](https://firebase.google.com/docs/firestore) - NoSQL Database
-- [Provider](https://pub.dev/packages/provider) - State Management
-- [Local Auth](https://pub.dev/packages/local_auth) - Local Biometrics/Security
-
