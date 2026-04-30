@@ -4,6 +4,9 @@ ZNOTE is a secure, feature-rich note-taking application built with Flutter and F
 
 <table>
   <tr>
+  <img width="1376" height="768" alt="Gemini_Generated_Image_df1wnjdf1wnjdf1w" src="https://github.com/user-attachments/assets/69cd48d7-0132-44e7-9e5b-2db362c6787b" />
+  </tr>
+  <tr>
     <td><img src="https://github.com/user-attachments/assets/8966ed6b-340e-4972-b014-0083a951f1a7" alt="Login Screen" width="250"/></td>
     <td><img src="https://github.com/user-attachments/assets/398448c9-ec79-4a5a-b31c-0b811ca3b6a3" alt="Empty Notes" width="250"/></td>
     <td><img src="https://github.com/user-attachments/assets/4ee8a941-437d-4e96-ae13-1ccacf078e0b" alt="Grid View Light" width="250"/></td>
